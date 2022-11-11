@@ -29,7 +29,7 @@
 }
 @media (max-width: 900px) {
   .App {
-    border: 3px solid red;
+    border: 3px solid blue;
     grid-template-areas:
       'footer footer'
       'main main'
